@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Wai Phyo Hein
+#  Wai Phyo Hein
 
 ### SWE Student · Full-Stack Developer · Production Shipper
 
@@ -102,17 +102,6 @@ Not just a student. Already a builder.
 - 🧪 **Matriculation:** 4 Distinctions — Maths · Physics · Chemistry · Biology
 
 ---
-
-## 🥚 Easter Eggs
-
-You've made it this far. Respect. Here's the stuff that didn't fit on the resume:
-
-- 🎮 **Gamer at heart** — strategy and RPG games are basically just system design with better graphics
-- 🧩 **Problem-solving is the hobby** — debugging a gnarly production bug hits different than any puzzle
-- 🌏 **Trilingual** — English, Burmese, and *fluent* in Stack Overflow error messages
-- 🧠 **Learning style:** I build things to understand things. Theory without code is just philosophy
-- ☕ **Fuel:** Coffee for features, green tea for debugging, panic for deadlines
-- 🔍 **Secret skill:** I once rewrote an entire KMP app's UI layer in a *single release* to fix a bug affecting all Android users. No pressure, just production
 
 > *"Ship it, then make it better."* — Unofficial motto
 
