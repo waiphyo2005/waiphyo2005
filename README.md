@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omninovawai.com-black?style=for-the-badge&logo=vercel)](https://omninovawai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wai--phyo--hein-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wai-phyo-hein)
-[![Email](https://img.shields.io/badge/Email-waiphyohein2005%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:iamwaiphyohein7689@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iamwaiphyohein7689@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:iamwaiphyohein7689@gmail.com)
 
 </div>
 
