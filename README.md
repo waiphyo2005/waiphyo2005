@@ -18,7 +18,7 @@
 
 Final-year **Bachelor of Software Engineering** student at **Sunway University** (CGPA 3.89 · Dean's List ×2), with 3 internships and **11 production modules shipped** across web and mobile.
 
-Currently building [**OmniNova360**] — an enterprise management platform with an embedded AI assistant called *Omni*, featuring an AI Control Panel for governance. Think ERP meets AI, built with Clean Architecture.
+Currently building **OmniNova360** — an enterprise management platform with an embedded AI assistant called *Omni*, featuring an AI Control Panel for governance. Think ERP meets AI, built with Clean Architecture.
 
 ```text
 Aspiring Production Ready Software Developer.
@@ -85,7 +85,7 @@ Aspiring Production Ready Software Developer.
 
 | Project | Description | Stack |
 |---|---|---|
-| [OmniNova360] | Enterprise platform + AI governance | ASP.NET Core · Angular · PostgreSQL |
+| OmniNova360 | Enterprise platform + AI governance | ASP.NET Core · Angular · PostgreSQL |
 | [OmniNova Web API](https://github.com/waiphyo2005/omninova_personal_backend) | Laravel REST API with JWT auth | Laravel · JWT · MariaDB |
 | [OmniNova Frontend](https://github.com/waiphyo2005/omninova_personal_frontend) | React SPA consuming the API | React.js · JavaScript |
 | [Golden Journeys V2](https://github.com/waiphyo2005/GoldenJourneysWebAppV2) | Travel booking app — rebuilt clean | ASP.NET MVC · EF Core · MSSQL |
