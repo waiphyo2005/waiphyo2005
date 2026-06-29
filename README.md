@@ -2,13 +2,13 @@
 
 #  Wai Phyo Hein
 
-### SWE Student · Full-Stack Developer · Production Shipper
+### SWE Student · Full-Stack Developer 
 
 **Building real things for real users — from Kuala Lumpur, Malaysia 🇲🇾**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omninovawai.com-black?style=for-the-badge&logo=vercel)](https://omninovawai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wai--phyo--hein-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/wai-phyo-hein)
-[![Email](https://img.shields.io/badge/Email-waiphyohein2005%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:waiphyohein2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-waiphyohein2005%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:iamwaiphyohein7689@gmail.com)
 
 </div>
 
@@ -16,13 +16,12 @@
 
 ## `> whoami`
 
-Final-year **Bachelor of Software Engineering** student at **Sunway University** (CGPA 3.89 · Dean's List ×2), with 3 internships and **11 production modules shipped** across web and mobile. I don't just write code that compiles — I write code that ships.
+Final-year **Bachelor of Software Engineering** student at **Sunway University** (CGPA 3.89 · Dean's List ×2), with 3 internships and **11 production modules shipped** across web and mobile.
 
-Currently building [**OmniNova360**](https://github.com/waiphyo2005) — an enterprise management platform with an embedded AI assistant called *Omni*, featuring an AI Control Panel for governance. Think ERP meets AI, built with Clean Architecture.
+Currently building [**OmniNova360**] — an enterprise management platform with an embedded AI assistant called *Omni*, featuring an AI Control Panel for governance. Think ERP meets AI, built with Clean Architecture.
 
 ```text
-Aspiring Production Ready Developer.
-Not just a student. Already a builder.
+Aspiring Production Ready Software Developer.
 ```
 
 ---
@@ -31,11 +30,11 @@ Not just a student. Already a builder.
 
 | Role | Company | Stack | Impact |
 |---|---|---|---|
-| IT Developer Intern | Arachem (M) Sdn Bhd | KMP Compose · .NET Web API · Blazor | 8 modules · 4 app releases |
+| IT Developer Intern | Arachem (M) Sdn Bhd | KMP Compose · .NET Web API · Blazor | 8 modules · 4 app updates released |
 | Summer Intern | Arachem (M) Sdn Bhd | .NET Blazor · Telerik UI · MSSQL | 3 master data modules |
-| Software Developer Intern | City Holdings Limited | ASP.NET Core MVC · C# · EF Core | Full-stack web app, end-to-end |
+| Software Developer Intern | City Holdings Limited | ASP.NET Core MVC · C# · EF Core | Full-stack web app|
 
-> **3 internships. Real deadlines. Real users. Real bugs fixed.**
+> **3 internships. Real users. Real bugs fixed.**
 
 ---
 
@@ -65,7 +64,7 @@ Not just a student. Already a builder.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ### Practices
-`Clean Architecture` · `SOLID Principles` · `REST API Design` · `JWT Auth` · `EF Core / Prisma` · `UML Diagrams` · `Mobile Dev (Android via KMP)`
+`Clean Architecture` · `SOLID Principles` · `REST API Design` · `JWT Auth` · `EF Core / Prisma` · `UML Diagrams` · `Mobile Dev`
 
 ---
 
@@ -86,11 +85,11 @@ Not just a student. Already a builder.
 
 | Project | Description | Stack |
 |---|---|---|
-| [OmniNova360](https://github.com/waiphyo2005) | Enterprise platform + AI governance | ASP.NET Core · Angular · PostgreSQL |
+| [OmniNova360] | Enterprise platform + AI governance | ASP.NET Core · Angular · PostgreSQL |
 | [OmniNova Web API](https://github.com/waiphyo2005/omninova_personal_backend) | Laravel REST API with JWT auth | Laravel · JWT · MariaDB |
 | [OmniNova Frontend](https://github.com/waiphyo2005/omninova_personal_frontend) | React SPA consuming the API | React.js · JavaScript |
 | [Golden Journeys V2](https://github.com/waiphyo2005/GoldenJourneysWebAppV2) | Travel booking app — rebuilt clean | ASP.NET MVC · EF Core · MSSQL |
-| [Golden Journeys (OG)](https://github.com/waiphyo2005/Golden_Jorney_Fullstack) | Diploma FYP — full-stack travel site | PHP · HTML · CSS · MySQL |
+| [Golden Journeys (V1)](https://github.com/waiphyo2005/Golden_Jorney_Fullstack) | Diploma FYP — full-stack travel site | PHP · HTML · CSS · MySQL |
 
 ---
 
@@ -98,14 +97,7 @@ Not just a student. Already a builder.
 
 - 🎓 **Sunway ACE Scholarship** — Merit-based, awarded for Diploma excellence
 - 📋 **Dean's List ×2** — April & September 2025 Semesters, Sunway University
-- 🏅 **Academic Excellence Award** — Yangon Region Government recognition
-- 🧪 **Matriculation:** 4 Distinctions — Maths · Physics · Chemistry · Biology
 
----
-
-> *"Ship it, then make it better."* — Unofficial motto
-
----
 
 ## 📫 Let's Connect
 
@@ -122,6 +114,5 @@ I'm actively looking for **software development roles** — particularly in ente
 
 *Open to Developer Roles · 2026 · Expected Grad Jan 2027*
 
-**Built with C#, Kotlin, curiosity, and too much coffee ☕**
 
 </div>
