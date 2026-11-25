@@ -16,7 +16,7 @@
 
 ## `> whoami`
 
-Final-year **Bachelor of Software Engineering** student at **Sunway University** (CGPA 3.89 · Dean's List ×2), with 3 internships and **11 production modules shipped** across web and mobile.
+Final-year **Bachelor of Software Engineering** student at **Sunway University** (CGPA 3.87 · Dean's List ×3), with 3 internships and **11 production modules shipped** across web and mobile.
 
 Currently building **OmniNova360** — an enterprise management platform with an embedded AI assistant called *Omni*, featuring an AI Control Panel for governance. Think ERP meets AI, built with Clean Architecture.
 
@@ -96,7 +96,7 @@ Aspiring Production Ready Software Developer.
 ## 🏆 Recognition
 
 - 🎓 **Sunway ACE Scholarship** — Merit-based, awarded for Diploma excellence
-- 📋 **Dean's List ×2** — April & September 2025 Semesters, Sunway University
+- 📋 **Dean's List ×3** — April & September 2025 Semesters, May 2026 Semester Sunway University
 
 
 ## 📫 Let's Connect
